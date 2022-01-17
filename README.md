@@ -32,7 +32,16 @@
 
 # Proyecto
 - 1. Dentro de la carpeta "pages" creamos un archivo de nombre Home.js
-- 2. 
+- 2. Crear la carpeta template dentro de src, que contendra secciones que se repiten dentro de nuestras paginas 
+    - creacion del archivo Header.js
+- 3. Creamos el archivo Character.js dentro de la carpeta pages
+- 4. Crear el ERROR 404 -> garantiza que cuando algo no esta funcionando lo podemos ver en la pantalla 
+- 5. Ahora creamos el entorno de desarrollo local y exportamos 
+- 6. Preparamos window.addEventListener -> se encarga de eescuchar si la carga de la pagina se realizo
+- 7. Crear una funcion que se va a encargar de obtener el hash, significa que cuando nosotros nos movamos al detalle de un personaje vamos a manipular la url y tenemos que obtener el id
+    - creamos esta funcion en la seccion de utileria para saber cual es la ruta a la que esta accediendo nuestro usuario
+- 8. # implementar y probar conexiones
+    - dentro de src>routes>index.js
 
 
 # NOTAS
